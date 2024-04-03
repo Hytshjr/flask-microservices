@@ -1,0 +1,6 @@
+__pycache__/
+services/
+migrations/
+
+.env
+planification.txt
